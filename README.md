@@ -66,10 +66,7 @@ Technical support and Oracle database maintenance.
 ---
 
 ## 🌐 Contato / Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusttavolopes)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20%7C%20Gusttavo%20Lopes-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusttavolopes)
-
-[![Email](https://img.shields.io/badge/Email-gusttavo_lopes%40hotmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:gusttavo_lopes@hotmail.com)  
 [![Emails](https://img.shields.io/badge/Emails-gusttavo__lopes%40hotmail.com%20%7C%20guganevez%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:gusttavo_lopes@hotmail.com)
 
 ---
