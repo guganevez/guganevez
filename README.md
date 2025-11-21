@@ -93,13 +93,6 @@ Technical support and Oracle database maintenance.
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,c#,c,c++,delphi,vb6,aws,azure,gcp,oracle,sqlserver,mysql,postgres,git,github,linux,docker,kubernetes&perline=6" />
-</p>
-
-----
-### 🛠️ Tecnologias que utilizo
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="70px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="70px" />
