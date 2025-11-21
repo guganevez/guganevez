@@ -95,3 +95,67 @@ Technical support and Oracle database maintenance.
 
 ![guganevez GitHub stats](https://github-readme-stats.vercel.app/api?username=guganevez&show_icons=true&theme=dracula)
 ![guganevez GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guganevez&layout=compact&langs_count=7&theme=dracula)
+
+
+----------------------------Teste 1 Inicio
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gusttavolopesdev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>👋 Olá! Eu sou o Gusttavo Lopes</b><br>
+  Consultor ERP • Desenvolvedor • Soluções Digitais • Inovação Tecnológica
+</p>
+
+---
+
+### 🌐 Contato / Contact
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/gusttavolopes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gusttavo%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <br/>
+
+  <a href="mailto:gusttavo_lopes@hotmail.com">
+    <img src="https://img.shields.io/badge/Email%20Pessoal-gusttavo__lopes%40hotmail.com-red?style=flat&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="mailto:guganevez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-guganevez%40gmail.com-orange?style=flat&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="mailto:gusttavo.lopes@hagiousts.com">
+    <img src="https://img.shields.io/badge/Corporativo-gusttavo.lopes%40hagiousts.com-blue?style=flat&logo=microsoft-outlook&logoColor=white">
+  </a>
+
+</p>
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,gcp,mysql,postgres,git,github,linux,docker,kubernetes&perline=6" />
+</p>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gusttavolopesdev&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavolopesdev&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Consultoria e inovação para um mundo digital.”</i><br>
+  <b>HAGIOUS TECNOLOGIA E SERVIÇOS LTDA - ME</b>
+</p>
+
+----------------------------Teste 1 Final
