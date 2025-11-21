@@ -130,12 +130,3 @@ Technical support and Oracle database maintenance.
 
 ---
 
-
-
-
-<p align="center">
-  <i>“Consultoria e inovação para um mundo digital.”</i><br>
-  <b>HAGIOUS TECNOLOGIA E SERVIÇOS LTDA - ME</b>
-</p>
-
-----------------------------Teste 1 Final
