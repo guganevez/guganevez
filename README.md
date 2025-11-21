@@ -70,6 +70,15 @@ Technical support and Oracle database maintenance.
 
 [![Emails](https://img.shields.io/badge/Emails-gusttavo__lopes%40hotmail.com%20%7C%20guganevez%40gmail.com%20%7C%20gusttavo.lopes%40hagiousts.com-red?style=flat&logo=gmail&logoColor=white)](mailto:gusttavo_lopes@hotmail.com)
 
+## 🌐 Contato / Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Gusttavo%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusttavolopes)
+
+[![Email Pessoal](https://img.shields.io/badge/Email%20Pessoal-gusttavo__lopes%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusttavo_lopes@hotmail.com)
+[![Email Alternativo](https://img.shields.io/badge/Email%20Alternativo-guganevez%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guganevez@gmail.com)
+[![Email Corporativo](https://img.shields.io/badge/Email%20Corporativo-gusttavo.lopes%40hagiousts.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gusttavo.lopes@hagiousts.com)
+
+
 ---
 
 ⭐ _“Flexibilidade, aprendizado contínuo e criatividade são minhas maiores ferramentas.”_  
