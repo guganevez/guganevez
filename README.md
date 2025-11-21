@@ -98,6 +98,15 @@ Technical support and Oracle database maintenance.
 
 ---
 
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guganevez&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guganevez&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
 ⭐ _“Flexibilidade, aprendizado contínuo e criatividade são minhas maiores ferramentas.”_  
 ⭐ _“Flexibility, continuous learning, and creativity are my strongest tools.”_
 
@@ -122,14 +131,7 @@ Technical support and Oracle database maintenance.
 ---
 
 
-### 📊 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusttavolopesdev&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavolopesdev&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
----
 
 <p align="center">
   <i>“Consultoria e inovação para um mundo digital.”</i><br>
