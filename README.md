@@ -90,6 +90,14 @@ Technical support and Oracle database maintenance.
 
 ---
 
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,gcp,mysql,postgres,git,github,linux,docker,kubernetes&perline=6" />
+</p>
+
+---
+
 ⭐ _“Flexibilidade, aprendizado contínuo e criatividade são minhas maiores ferramentas.”_  
 ⭐ _“Flexibility, continuous learning, and creativity are my strongest tools.”_
 
@@ -113,20 +121,6 @@ Technical support and Oracle database maintenance.
 
 ---
 
-<p align="center">
-  <b>👋 Olá! Eu sou o Gusttavo Lopes</b><br>
-  Consultor ERP • Desenvolvedor • Soluções Digitais • Inovação Tecnológica
-</p>
-
-
-
-### 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,gcp,mysql,postgres,git,github,linux,docker,kubernetes&perline=6" />
-</p>
-
----
 
 ### 📊 Estatísticas GitHub
 
