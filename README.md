@@ -93,7 +93,7 @@ Technical support and Oracle database maintenance.
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,azure,gcp,mysql,postgres,git,github,linux,docker,kubernetes&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,c#,c,c++,delphi,vb6,aws,azure,gcp,oracle,sqlserver,mysql,postgres,git,github,linux,docker,kubernetes&perline=6" />
 </p>
 
 ---
