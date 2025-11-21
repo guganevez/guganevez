@@ -109,24 +109,3 @@ Technical support and Oracle database maintenance.
 
 ⭐ _“Flexibilidade, aprendizado contínuo e criatividade são minhas maiores ferramentas.”_  
 ⭐ _“Flexibility, continuous learning, and creativity are my strongest tools.”_
-
----------
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width ="100px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width ="100px">
-</p>
-
-![guganevez GitHub stats](https://github-readme-stats.vercel.app/api?username=guganevez&show_icons=true&theme=dracula)
-![guganevez GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guganevez&layout=compact&langs_count=7&theme=dracula)
-
-
-----------------------------Teste 1 Inicio
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gusttavolopesdev&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
