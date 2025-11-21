@@ -65,19 +65,28 @@ Technical support and Oracle database maintenance.
 
 ---
 
-## 🌐 Contato / Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20%7C%20Gusttavo%20Lopes-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusttavolopes)
+### 🌐 Contato / Contact
 
-[![Emails](https://img.shields.io/badge/Emails-gusttavo__lopes%40hotmail.com%20%7C%20guganevez%40gmail.com%20%7C%20gusttavo.lopes%40hagiousts.com-red?style=flat&logo=gmail&logoColor=white)](mailto:gusttavo_lopes@hotmail.com)
+<p align="center">
 
-## 🌐 Contato / Contact
+  <a href="https://linkedin.com/in/gusttavolopes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gusttavo%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Gusttavo%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusttavolopes)
+  <a href="mailto:gusttavo_lopes@hotmail.com">
+    <img src="https://img.shields.io/badge/Email%20Pessoal-gusttavo__lopes%40hotmail.com-red?style=flat&logo=gmail&logoColor=white">
+  </a>
 
-[![Email Pessoal](https://img.shields.io/badge/Email%20Pessoal-gusttavo__lopes%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusttavo_lopes@hotmail.com)
-[![Email Alternativo](https://img.shields.io/badge/Email%20Alternativo-guganevez%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guganevez@gmail.com)
-[![Email Corporativo](https://img.shields.io/badge/Email%20Corporativo-gusttavo.lopes%40hagiousts.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gusttavo.lopes@hagiousts.com)
+  <a href="mailto:guganevez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-guganevez%40gmail.com-orange?style=flat&logo=gmail&logoColor=white">
+  </a>
 
+  <a href="mailto:gusttavo.lopes@hagiousts.com">
+    <img src="https://img.shields.io/badge/Corporativo-gusttavo.lopes%40hagiousts.com-blue?style=flat&logo=microsoft-outlook&logoColor=white">
+  </a>
+
+</p>
 
 ---
 
@@ -109,32 +118,7 @@ Technical support and Oracle database maintenance.
   Consultor ERP • Desenvolvedor • Soluções Digitais • Inovação Tecnológica
 </p>
 
----
 
-### 🌐 Contato / Contact
-
-<p align="center">
-
-  <a href="https://linkedin.com/in/gusttavolopes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gusttavo%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <br/>
-
-  <a href="mailto:gusttavo_lopes@hotmail.com">
-    <img src="https://img.shields.io/badge/Email%20Pessoal-gusttavo__lopes%40hotmail.com-red?style=flat&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="mailto:guganevez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-guganevez%40gmail.com-orange?style=flat&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="mailto:gusttavo.lopes@hagiousts.com">
-    <img src="https://img.shields.io/badge/Corporativo-gusttavo.lopes%40hagiousts.com-blue?style=flat&logo=microsoft-outlook&logoColor=white">
-  </a>
-
-</p>
-
----
 
 ### 🛠️ Tecnologias & Ferramentas
 
