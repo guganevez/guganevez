@@ -2,7 +2,7 @@
 
 💼 **Consultor de Sistemas e Desenvolvedor | Systems Consultant & Software Developer**  
 📍 Goiânia, GO - Brasil / Brazil  
-✉️ gusttavo_lopes@hotmail.com | guganevez@gmail.com  
+✉️ gusttavo_lopes@hotmail.com | guganevez@gmail.com | gusttavo.lopes@hagiousts.com
 
 ---
 
